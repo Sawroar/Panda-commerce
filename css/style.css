@@ -1,8 +1,8 @@
 .panda-banner-bg {
-    background-color: #b1a4a3;
+    background-color: #fceae8;
 }
 
-.btn {
+.panda-btn {
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
     color: #fff;
     border: none;
